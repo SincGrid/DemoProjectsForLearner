@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp 32 s3")(type "KiCad")(uri "C:/Users/Aditya Pareek/Downloads/ESP32-S3 EXP KIT LIBRARY/ESP32-S3 EXP KIT LIBRARY/ESP32S3_EXPKIT.kicad_sym")(options "")(descr ""))
+  (lib (name "charging module")(type "KiCad")(uri "C:/Users/Aditya Pareek/Downloads/TP4056/TP4056.kicad_sym")(options "")(descr ""))
+  (lib (name "Oled")(type "Legacy")(uri "C:/Users/Aditya Pareek/Downloads/library_SSD1306/library/SSD1306-128x64_OLED.lib")(options "")(descr ""))
+  (lib (name "Buzzer beeper")(type "KiCad")(uri "C:/Users/Aditya Pareek/Downloads/CEM-1201_42_/CEM-1201_42_.kicad_sym")(options "")(descr ""))
+)
