@@ -1,0 +1,9 @@
+Sir humara project sahi chal raha hai except sunlight sensor
+jab hum sunlight sensor koh test kar rahe hai uski library ke example se toh yeh error aa raha hai
+In file included from c:\Users\USER\Documents\Arduino\libraries\Grove_-_Sunlight_Sensor\Si115X.h:5, 
+	from c:\Users\USER\Documents\Arduino\libraries\Grove_-_Sunlight_Sensor\Si115X.cpp:2: 
+		C:\Users\USER\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\Wire\src/Wire.h: In member function 'int Si115X::read_register(uint8_t, uint8_t, int)': 
+		C:\Users\USER\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\Wire\src/Wire.h:127:13: note: candidate 1: 'uint8_t TwoWire::requestFrom(int, int)' uint8_t requestFrom(int address, int size); 
+		C:\Users\USER\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\Wire\src/Wire.h:125:13: note: candidate 2: 'uint8_t TwoWire::requestFrom(uint8_t, uint8_t)' uint8_t requestFrom(uint8_t address, uint8_t size);
+
+humara joh main code hai usmein humara soil moisture sensor aur pump sahi chal raha hai
